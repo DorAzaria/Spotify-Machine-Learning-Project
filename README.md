@@ -16,3 +16,4 @@
 ![](https://github.com/DorAzaria/Spotify-Machine-Learning-Project/blob/main/Pictures/Spotify%20predictions%20project%20-%20machine%20learning/Slide14.PNG?raw=true)
 ![](https://github.com/DorAzaria/Spotify-Machine-Learning-Project/blob/main/Pictures/Spotify%20predictions%20project%20-%20machine%20learning/Slide15.PNG?raw=true)
 ![](https://github.com/DorAzaria/Spotify-Machine-Learning-Project/blob/main/Pictures/Spotify%20predictions%20project%20-%20machine%20learning/Slide16.PNG?raw=true)
+![](https://github.com/DorAzaria/Spotify-Machine-Learning-Project/blob/main/Pictures/Spotify%20predictions%20project%20-%20machine%20learning/Slide17.PNG?raw=true)
